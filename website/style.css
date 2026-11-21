@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #141e30, #243b55);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 150px;
+}
+
+h1 {
+    color: #00e5ff;
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
